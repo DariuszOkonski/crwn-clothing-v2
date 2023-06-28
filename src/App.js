@@ -1,5 +1,5 @@
 const App = () => {
-  // hello
+  // hello world
   return (
     <div className='categories-container'>
       <div className='category-container'>
